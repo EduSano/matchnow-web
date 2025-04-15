@@ -16,7 +16,7 @@ function App() {
         zIndex: 1000
       }}>
         <div style={{ fontWeight: 'bold', fontSize: '20px' }}>
-          <img src="/logo192.png" alt="MatchNow Logo" style={{ height: '30px', marginRight: '10px', verticalAlign: 'middle' }} />
+          <img src="/logo.png" alt="MatchNow Logo" style={{ height: '40px', marginRight: '10px', verticalAlign: 'middle' }} />
           MatchNow!
         </div>
         <div>
